@@ -1,0 +1,10 @@
+# required
+numpy
+scipy
+scikit-learn
+
+# for demo
+PyQt5
+PyOpenGL
+matplotlib
+sympy
